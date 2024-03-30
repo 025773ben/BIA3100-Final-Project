@@ -1,4 +1,7 @@
 library(forcats)
+library(dplyr)
+library(rpart)
+library(rpart.plot)
 
 ##Filtering and Cleaning personStats-------------------------------------------
 
